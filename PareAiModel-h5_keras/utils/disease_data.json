@@ -1,0 +1,72 @@
+{
+  "0": {
+    "label": "HDB (Hawar Daun Bakteri)",
+    "description": "HDB atau Hawar Daun Bakteri bikin ujung daun padi jadi kuning terus kering.",
+    "suggestion": "Pakai benih yang tahan penyakit dan tanam jangan terlalu rapat ya.",
+    "tools_materials": "• Benih tahan HDB\n• Alat tanam\n• Tali ukur",
+    "tutorial_steps": "1. Ambil benih yang kuat dari toko resmi.\n2. Siapin tanahnya, jangan sampai becek terus ya.\n3. Tanam padi jaraknya dikasih ruang, misal 20x20 cm.\n4. Jangan tanam di tempat yang sering banjir.\n5. Cek-cek terus kelembapan tanahnya, bersihin gulma juga."
+  },
+  "1": {
+    "label": "Bercak Coklat",
+    "description": "Noda Paslu bikin daun padi ada bintik coklat-coklat, bisa karena tanah kurang sehat.",
+    "suggestion": "Pakai obat jamur dan pastikan air bisa ngalir lancar.",
+    "tools_materials": "• Obat jamur (fungisida mankozeb)\n• Semprotan\n• Pupuk kompos",
+    "tutorial_steps": "1. Pastikan air di sawah bisa keluar masuk lancar ya.\n2. Kasih pupuk kompos biar tanahnya sehat.\n3. Kalau udah ada bintik, semprot pagi atau sore.\n4. Baca label obatnya ya, biar tahu kapan harus semprot lagi.\n5. Daun yang parah dibuang aja biar gak nular."
+  },
+  "2": {
+    "label": "Noda Paslu",
+    "description": "Noda Paslu bikin bulir padi kayak gumpalan oranye.",
+    "suggestion": "Pakai benih bagus dan coba tanam tanaman lain setelah panen.",
+    "tools_materials": "• Benih bersertifikat\n• Obat jamur (propikonazol)\n• Alat ganti tanaman",
+    "tutorial_steps": "1. Pilih benih dari toko terpercaya ya.\n2. Setelah panen, coba tanam sayur dulu, jangan padi terus.\n3. Semprot obat jamur pas padi mau berbunga.\n4. Jangan kebanyakan pupuk nitrogen ya.\n5. Panen jangan telat supaya jamur gak makin banyak."
+  },
+  "3": {
+    "label": "Tanaman Sehat",
+    "description": "Tanaman sehat itu daunnya hijau dan tumbuhnya bagus.",
+    "suggestion": "Rawat terus dan kasih pupuk yang pas ya.",
+    "tools_materials": "• Pupuk organik/NPK\n• Alat cek pH tanah\n• Air bersih",
+    "tutorial_steps": "1. Lihat-lihat tanaman tiap hari, sehat gak ya.\n2. Kasih pupuk sesuai umur tanamannya.\n3. Pastikan air di sawah jernih dan ngalir baik.\n4. Pakai benih yang bagus dan tanam jangan dempet.\n5. Ganti jenis tanaman sesekali biar tanah tetap bagus."
+  },
+  "4": {
+    "label": "Hispa",
+    "description": "Hispa itu serangga kecil yang bikin daun padi lecet putih-putih.",
+    "suggestion": "Pakai obat alami dan bersihin rumput liar ya.",
+    "tools_materials": "• Obat alami dari mimba/serai\n• Semprotan tangan\n• Sabit/cangkul",
+    "tutorial_steps": "1. Lihat daun, ada goresan putih gak?\n2. Bikin semprotan dari daun mimba atau serai.\n3. Semprot daunnya pelan-pelan.\n4. Cabut rumput liar di sekelilingnya ya.\n5. Kalau masih banyak hispa, semprot lagi 5-7 hari nanti."
+  },
+  "5": {
+    "label": "Blast Daun",
+    "description": "Blast Daun bikin daun jadi rusak dan bisa gagal panen.",
+    "suggestion": "Pakai obat jamur saat padi mulai berbunga dan pilih benih tahan penyakit.",
+    "tools_materials": "• Obat jamur (triazol)\n• Semprotan punggung\n• Benih tahan penyakit",
+    "tutorial_steps": "1. Pilih benih yang tahan blast.\n2. Semprot obat jamur saat padi mulai keluar bunga.\n3. Semprot rata ke seluruh bagian atas padi.\n4. Jangan kasih pupuk nitrogen kebanyakan ya.\n5. Kalau cuaca lembap atau sering hujan, semprot ulang ya."
+  },
+  "6": {
+    "label": "Blast Leher",
+    "description": "Blast Leher bikin batang tempat bulir jadi hitam dan bulir gak jadi.",
+    "suggestion": "Pakai benih tahan blast dan semprot fungisida saat padi berbunga.",
+    "tools_materials": "• Benih tahan blast\n• Fungisida khusus\n• Alat semprot",
+    "tutorial_steps": "1. Tanam benih tahan blast.\n2. Cek padi saat berbunga, semprot kalau perlu.\n3. Jangan kasih pupuk nitrogen terlalu banyak.\n4. Lakukan rotasi tanaman supaya jamur gak balik lagi.\n5. Buang bagian tanaman yang kena biar gak nyebar."
+  },
+  "7": {
+    "label": "Busuk Pelepah Daun",
+    "description": "Busuk Pelepah Daun bikin pelepah daun busuk dan batang roboh.",
+    "suggestion": "Kurangi kelembapan dan semprot fungisida kalau gejala muncul.",
+    "tools_materials": "• Fungisida\n• Alat semprot\n• Alat ukur kelembapan",
+    "tutorial_steps": "1. Jangan tanam terlalu rapat.\n2. Atur air di sawah supaya gak terlalu lembap.\n3. Semprot fungisida kalau pelepah mulai busuk.\n4. Buang tanaman yang udah kena parah.\n5. Bersihin sawah setelah panen."
+  },
+  "8": {
+    "label": "Penggerek Batang",
+    "description": "Penggerek Batang itu ulat kecil yang masuk ke batang dan bikin mati.",
+    "suggestion": "Tanam bareng-bareng dan pakai jamur atau serangga baik untuk lawan ulat.",
+    "tools_materials": "• Jamur baik (Beauveria) / Trichogramma\n• Alat penyebar\n• Benih tanam bareng",
+    "tutorial_steps": "1. Tanam padi bareng sama tetangga biar ulat gak pindah tempat.\n2. Sebar jamur atau serangga baik di sawah.\n3. Jangan pakai pestisida kimia banyak-banyak ya.\n4. Potong batang yang udah kena dan bakar atau buang jauh.\n5. Lihat sawah tiap hari buat cek ulat muncul lagi gak."
+  },
+  "9": {
+    "label": "Wereng",
+    "description": "Wereng itu serangga kecil yang isep sari tanaman, bikin daun kuning dan kering.",
+    "suggestion": "Pakai insektisida dengan bijak dan tanam padi yang tahan wereng.",
+    "tools_materials": "• Insektisida (imidakloprid)\n• Semprotan\n• Benih tahan wereng",
+    "tutorial_steps": "1. Sebelum tanam, pilih benih yang tahan wereng ya.\n2. Cek wereng tiap pagi dan sore.\n3. Kalau banyak, semprot insektisida di bagian yang kena aja.\n4. Jangan terlalu sering semprot biar wereng gak jadi kuat.\n5. Tanam bareng-bareng biar wereng gak bisa pindah."
+  }
+}

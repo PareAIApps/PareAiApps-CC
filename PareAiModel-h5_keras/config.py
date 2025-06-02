@@ -1,0 +1,3 @@
+MODEL_PATH = '20250518_rice_disease_classifier.keras'
+IMAGE_SIZE = (224, 224)
+CONFIDENCE_THRESHOLD = 0.7

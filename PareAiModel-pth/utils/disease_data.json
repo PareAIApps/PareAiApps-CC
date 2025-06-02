@@ -1,0 +1,79 @@
+{
+    "0": {
+        "label": "Bacterial Leaf Blight",
+        "description": "Bacterial Leaf Blight (juga dikenal sebagai Hawar Daun Bakteri atau HDB) adalah penyakit yang menyebabkan daun padi menguning dari ujung lalu mengering.",
+        "suggestion": "Gunakan varietas tahan penyakit dan atur jarak tanam untuk mengurangi kelembaban.",
+        "tools_materials": "• Benih varietas tahan HDB\n• Alat tanam padi\n• Tali ukur atau meteran",
+        "tutorial_steps": "1. Pilih benih varietas tahan HDB dari distributor resmi.\n2. Persiapkan lahan dengan sistem drainase yang baik.\n3. Tanam dengan jarak 20x20 cm menggunakan tali bantu atau meteran.\n4. Hindari area yang tergenang agar kelembaban tidak terlalu tinggi.\n5. Awasi kelembaban terutama saat musim hujan dan lakukan sanitasi lahan secara rutin."
+    },
+    "1": {
+        "label": "Bacterial Leaf Streak",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    },
+    "2": {
+        "label": "Bacterial Panicle Blight",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    },
+    "3": {
+        "label": "Blast",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    },
+    "4": {
+        "label": "Brown Spot",
+        "description": "Brown Spot menyebabkan bercak coklat pada daun dan gabah, biasanya disebabkan oleh kelembaban tinggi atau kekurangan hara.",
+        "suggestion": "Aplikasikan fungisida dan pastikan drainase lahan berfungsi baik.",
+        "tools_materials": "• Fungisida berbahan aktif mankozeb\n• Pompa semprot\n• Kompos atau pupuk organik",
+        "tutorial_steps": "1. Pastikan sistem drainase lahan bekerja optimal untuk menghindari genangan.\n2. Tambahkan pupuk organik guna memperbaiki kesuburan tanah.\n3. Jika bercak coklat muncul, semprotkan fungisida pada pagi atau sore hari.\n4. Ulangi penyemprotan sesuai petunjuk pada label produk.\n5. Singkirkan daun yang sudah parah secara manual agar tidak menyebar."
+    },
+    "5": {
+        "label": "Dead Heart",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    },
+    "6": {
+        "label": "Downy Mildew",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    },
+    "7": {
+        "label": "False Smut",
+        "description": "False Smut menyerang bulir padi dan menyebabkan pembengkakan menyerupai bola kapas berwarna kehijauan.",
+        "suggestion": "Gunakan benih bersertifikat dan terapkan rotasi tanaman secara berkala.",
+        "tools_materials": "• Benih bersertifikat\n• Fungisida berbahan aktif propikonazol\n• Peralatan untuk rotasi tanaman",
+        "tutorial_steps": "1. Gunakan benih bersertifikat dari sumber terpercaya.\n2. Setelah panen, lakukan rotasi tanaman dengan jenis non-padi.\n3. Semprotkan fungisida menjelang fase pembungaan.\n4. Hindari pemberian pupuk nitrogen secara berlebihan.\n5. Lakukan panen tepat waktu untuk mencegah pertumbuhan jamur lebih lanjut."
+    },
+    "8": {
+        "label": "Healthy",
+        "description": "Tanaman Sehat tidak menunjukkan gejala penyakit maupun serangan hama. Daunnya hijau segar dan pertumbuhannya normal.",
+        "suggestion": "Pertahankan praktik budidaya yang baik serta pemupukan seimbang.",
+        "tools_materials": "• Pupuk organik atau pupuk NPK seimbang\n• Alat ukur pH tanah\n• Air irigasi bersih",
+        "tutorial_steps": "1. Lakukan pengamatan rutin terhadap kondisi tanaman.\n2. Gunakan pupuk secara seimbang sesuai fase pertumbuhan.\n3. Pastikan saluran irigasi tetap bersih dan lancar.\n4. Gunakan benih berkualitas serta tanam dengan jarak optimal.\n5. Lakukan rotasi tanaman untuk menjaga kesuburan tanah."
+    },
+    "9": {
+        "label": "Hispa",
+        "description": "Hispa adalah serangga kecil yang memakan jaringan daun dan menyebabkan goresan putih.",
+        "suggestion": "Gunakan insektisida nabati dan kontrol gulma di sekitar tanaman.",
+        "tools_materials": "• Insektisida nabati dari daun mimba atau serai\n• Alat semprot manual\n• Cangkul atau sabit gulma",
+        "tutorial_steps": "1. Identifikasi gejala awal berupa goresan putih pada permukaan daun.\n2. Buat larutan insektisida nabati dari ekstrak daun mimba atau serai.\n3. Semprotkan larutan tersebut ke bagian daun yang terdampak.\n4. Bersihkan gulma di sekitar tanaman untuk menghilangkan tempat persembunyian Hispa.\n5. Ulangi penyemprotan setiap 5 hingga 7 hari bila serangan berlanjut."
+    },
+    "10": {
+        "label": "Tungro",
+        "description": "TBD",
+        "suggestion": "TBD",
+        "tools_materials": "TBD",
+        "tutorial_steps": "TBD"
+    }
+}

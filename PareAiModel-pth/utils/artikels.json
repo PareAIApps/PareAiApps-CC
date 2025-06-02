@@ -1,0 +1,65 @@
+{
+    "Bacterial Leaf Blight": {
+        "label": "Bacterial Leaf Blight",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/bacterial-leaf-blight-symptoms.jpg",
+        "subtitle": "Penyakit serius yang menyebabkan daun padi menguning dari ujung.",
+        "description": "Bacterial Leaf Blight menyebar dengan cepat melalui percikan air dan menyebabkan kerusakan parah pada daun padi. Pencegahan sangat penting untuk menghindari kehilangan hasil panen.",
+        "created_at": "11 May 2025"
+    },
+    "Brown Planthopper": {
+        "label": "Brown Planthopper",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/wereng.jpg",
+        "subtitle": "Wereng coklat menyerang batang dan menyebabkan kematian mendadak.",
+        "description": "Brown Planthopper menghisap cairan dari batang tanaman padi dan dapat menyebabkan tanaman layu dalam waktu singkat, terutama saat populasi hama tinggi.",
+        "created_at": "11 May 2025"
+    },
+    "Brown Spot": {
+        "label": "Brown Spot",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/brownspot.jpg",
+        "subtitle": "Penyakit bercak coklat yang umum saat kelembaban tinggi.",
+        "description": "Brown Spot adalah masalah umum di lahan dengan drainase buruk dan kekurangan hara. Dapat menyebabkan penurunan kualitas gabah secara signifikan.",
+        "created_at": "11 May 2025"
+    },
+    "False Smut": {
+        "label": "False Smut",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/falsesmut.jpg",
+        "subtitle": "Penyakit yang membuat bulir padi tampak seperti kapas hijau.",
+        "description": "False Smut muncul di musim hujan dan dapat menurunkan kualitas gabah secara drastis. Pencegahan melalui rotasi tanaman sangat dianjurkan.",
+        "created_at": "11 May 2025"
+    },
+    "Healthy Plant": {
+        "label": "Healthy Plant",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/healty.jpg",
+        "subtitle": "Tanaman dalam kondisi sehat dan subur.",
+        "description": "Tanaman sehat tumbuh optimal tanpa gejala penyakit. Warna daun hijau merata dan pertumbuhan seragam.",
+        "created_at": "11 May 2025"
+    },
+    "Hispa": {
+        "label": "Hispa",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/hispa.jpg",
+        "subtitle": "Serangga kecil yang merusak jaringan daun.",
+        "description": "Hispa menyebabkan garis putih pada daun akibat aktivitas makannya. Pengendalian dini penting untuk mencegah penyebaran luas.",
+        "created_at": "11 May 2025"
+    },
+    "Neck Blast": {
+        "label": "Neck Blast",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/neckblash.jpg",
+        "subtitle": "Penyakit yang menyerang pangkal malai.",
+        "description": "Neck Blast menyebabkan gabah tidak terisi dan mempengaruhi hasil panen. Penyemprotan saat fase pembungaan sangat krusial.",
+        "created_at": "11 May 2025"
+    },
+    "Sheath Blight Rot": {
+        "label": "Sheath Blight Rot",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/Sheath%20Blight%20Rot.jpg",
+        "subtitle": "Penyakit yang menimbulkan bercak pada pelepah dan batang.",
+        "description": "Sheath Blight Rot menyebar melalui air dan kontak antar tanaman. Tanam dengan jarak yang cukup dan gunakan fungisida sesuai dosis.",
+        "created_at": "11 May 2025"
+    },
+    "Stemborer": {
+        "label": "Stemborer",
+        "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/stem_borer_main.jpg",
+        "subtitle": "test put stembo2",
+        "description": "test time",
+        "created_at": "13 May 2025"
+    }
+}

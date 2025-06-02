@@ -1,0 +1,93 @@
+{
+  "Bacterial Leaf Blight": {
+    "label": "HDB (Hawar Daun Bakteri)",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/bacterial-leaf-blight-symptoms.jpg",
+    "subtitle": "Daun padi jadi kuning dari ujungnya, kayak luka.",
+    "description": "Ini tuh penyakit yang bikin daun padi nguning dari ujung terus nyebar ke bawah. Datangnya dari air yang nyiprat ke sana kemari. Kalau nggak dijaga, daun-daunnya bisa rusak parah dan padinya bisa nggak panen deh. Jadi kita harus hati-hati ya, jangan sampai air kotor nyiprat-nyiprat sembarangan.",
+    "created_at": "11 May 2025"
+  },
+  "Bacterial Leaf Streak": {
+    "label": "Garis Kuning Daun",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/Bacterial-leaf-streak-scaled.jpg",
+    "subtitle": "Daun padi ada garis kuning, kayak digores-gores.",
+    "description": "Daunnya kayak ada luka panjang warna kuning kecoklatan. Ini penyakit dateng karena angin atau cipratan air. Daunnya jadi belang-belang, nggak cantik lagi. Biar nggak nyebar, kita harus tanam padinya agak berjauhan dan jagain sawahnya biar bersih terus yaa~",
+    "created_at": "24 May 2025"
+  },
+  "Bacterial Panicle Blight": {
+    "label": "Kering Bunga Padi",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/paniclebligh.jpeg",
+    "subtitle": "Bunga padi kering, gabahnya nggak jadi.",
+    "description": "Kalau cuacanya panas banget dan udaranya kering, bunga padinya bisa kering juga. Akibatnya, gabah atau berasnya nggak mau tumbuh. Huhuhu sedih... Supaya nggak gitu, tanemnya jangan pas panas-panas banget, dan pakai bibit yang kuat-kuat ya~",
+    "created_at": "24 May 2025"
+  },
+  "Blast": {
+    "label": "Blas",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/rice_blast.png",
+    "subtitle": "Daunnya kayak gosong, ada bercak putih-coklat.",
+    "description": "Padi yang kena Blast tuh kayak kena api loh, daunnya jadi belang-belang kayak luka bakar. Kalau parah, bisa bikin daun patah dan padi nggak bisa tumbuh sehat. Harus disemprot biar penyakitnya nggak makin jahat, dan jangan lupa rawat padinya baik-baik ya!",
+    "created_at": "11 May 2025"
+  },
+  "Brown Spot": {
+    "label": "Bercak Coklat",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/brownspot.jpg",
+    "subtitle": "Daun padi muncul bintik-bintik coklat.",
+    "description": "Kalau tanahnya becek terus makanannya kurang, daunnya suka muncul bintik-bintik coklat kecil. Ini namanya Brown Spot. Bercaknya bikin padi sakit dan nggak bisa bikin beras yang bagus. Kita bisa bantu dengan pupuk dan air yang cukup, biar padinya bahagia.",
+    "created_at": "11 May 2025"
+  },
+  "Dead Heart": {
+    "label": "Pucuk Mati",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/stem_borer_main.jpg",
+    "subtitle": "Batangnya digigit, pucuknya mati mendadak.",
+    "description": "Ada ulat nakal masuk ke dalam batang padi dan ngemil bagian tengahnya. Akibatnya, ujung padinya langsung mati, kayak hatinya sakit... huhu. Nah itu namanya Dead Heart. Kita bisa lawan dengan tanam bareng-bareng dan pake semprotan ramah lingkungan.",
+    "created_at": "11 May 2025"
+  },
+  "Downy Mildew": {
+    "label": "Bedak Putih Daun",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/Downy-mildew-young-leaf-with-downy-mildew-striping-and-white-down-on-the-leaf-left-and.jpg",
+    "subtitle": "Daunnya lemas, muncul bedak putih di atasnya.",
+    "description": "Downy Mildew suka tempat lembap dan teduh. Dia datang kayak hantu putih—daunnya jadi kayak ada bedak halus. Padahal itu jamur loh! Harus dikasih sirkulasi udara dan air yang bagus, plus disemprot jamu jamur alami biar hilang cepet.",
+    "created_at": "24 May 2025"
+  },
+  "False Smut": {
+    "label": "Noda Palsu",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/falsesmut.jpg",
+    "subtitle": "Gabah padi berubah kayak bola kapas hijau.",
+    "description": "Kalau musim hujan datang, bulir padinya bisa berubah jadi kayak kapas berwarna hijau. Namanya False Smut. Gabah jadi nggak bisa dimakan dan kualitasnya jelek. Kita harus rajin ganti-ganti tanaman dan bersihin sawahnya ya biar nggak dateng lagi.",
+    "created_at": "11 May 2025"
+  },
+  "Healty": {
+    "label": "Tanaman Sehat",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/healty.jpg",
+    "subtitle": "Daunnya hijau merata, tumbuh subur.",
+    "description": "Yeay! Ini padi sehat loh! Daunnya hijau cerah, tumbuhnya bareng-bareng dan kuat. Nggak ada bercak, nggak ada luka. Kita harus rajin rawat dengan kasih air cukup, pupuk yang pas, dan jagain dari hama. Biar padinya bisa panen banyak!",
+    "created_at": "11 May 2025"
+  },
+  "Hispa": {
+    "label": "Hispa",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/hispa.jpg",
+    "subtitle": "Daun padi digores-gores jadi ada garis putih.",
+    "description": "Ada serangga kecil namanya Hispa, dia suka makan daun dari atas, jadinya ada garis putih kayak dicoret-coret. Kalau banyak, daunnya jadi nggak bisa bikin makanan sendiri. Makanya harus disemprot atau dikontrol biar nggak makin banyak.",
+    "created_at": "11 May 2025"
+  },
+  "Sheath Blight Rot": {
+    "label": "Busuk Pelepah Daun",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/Sheath%20Blight%20Rot.jpg",
+    "subtitle": "Daun dan batang padi jadi ada bercak-bercak gelap, kelihatan lemas.",
+    "description": "Sheath Blight Rot bikin pelepah padi kelihatan basah dan cepat busuk. Kalau gak dikontrol, tanaman bisa tumbang dan panen bisa gagal.",
+    "created_at": "11 May 2025"
+  },
+  "Stemborer": {
+    "label": "Penggerek Batang",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/stem_borer_main.jpg",
+    "subtitle": "Hama penggerek batang yang menyebabkan tanaman mati mendadak.",
+    "description": "Stemborer menggerek batang padi dan membuatnya mati mendadak. Agen hayati dan tanam serempak efektif untuk pengendalian.",
+    "created_at": "11 May 2025"
+  },
+  "Wereng": {
+    "label": "Wereng",
+    "image_url": "https://storage.googleapis.com/pare-ai_assets/artikels/brown-plant-hooper.jpg",
+    "subtitle": "Wereng menyerang batang dan menyebabkan kematian mendadak.",
+    "description": "Wereng menghisap cairan dari batang tanaman padi dan dapat menyebabkan tanaman layu dalam waktu singkat, terutama saat populasi hama tinggi.",
+    "created_at": "11 May 2025"
+  }
+}
